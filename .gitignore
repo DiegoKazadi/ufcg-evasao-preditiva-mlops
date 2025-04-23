@@ -1,0 +1,4 @@
+/feature_store.csv
+/feature_store.parquet
+/preprocessor.pkl
+/modelo_random_forest.pkl

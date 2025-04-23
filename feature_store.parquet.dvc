@@ -1,0 +1,5 @@
+outs:
+- md5: 77a18b151b524f912bf4b05be08f2c1c
+  size: 19762
+  hash: md5
+  path: feature_store.parquet
